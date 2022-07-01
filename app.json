@@ -1,7 +1,7 @@
 {
   "name": "OCR Bot",
   "description": "Telegram bot to extract text from image",
-  "logo": "https://telegra.ph/file/243d5cb02e7aa0384358f.jpg",
+  "logo": "https://https://telegra.ph/file/21358da13973258c9afc3.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -23,7 +23,7 @@
       "size": "free"
     }
   },
-  "repository": "https://github.com/StarkBotsIndustries/OCRBot",
+  "repository": "https://github.com/azeezmazin1/OCRBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
