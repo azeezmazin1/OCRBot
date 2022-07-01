@@ -1,8 +1,8 @@
-# OCR Bot [@Image_To_Text_OCR_Bot](https://t.me/Image_To_Text_OCR_Bot)
+# OCR Bot [@Image_To_Text_OCR_Bot](https://t.me/ImageToTextMJBot)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/OCRBot"><img src="https://telegra.ph/file/243d5cb02e7aa0384358f.jpg" width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/azeezmazin1/OCRBot"><img src="https://telegra.ph/file/21358da13973258c9afc3.jpg" width="5000"></a></p>
 
 Telegram bot to extract text from image
 
@@ -12,7 +12,7 @@ Telegram bot to extract text from image
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/OCRBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/azeezmazin1/OCRBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,14 +23,14 @@ Telegram bot to extract text from image
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/OCRBot
+   git clone https://github.com/azeezmazin1/OCRBot
    ```
 
 2. Now head to [this page](https://github.com/UB-Mannheim/tesseract/wiki) and install Tesseract installer. 
    
 3. Use it to  install Tesseract and copy the PATH to where it is installed. 
 
-4. Now uncomment out [this line](https://github.com/StarkBotsIndustries/OCRBot/blob/master/OCRBot/ocr.py#L8). Fill the inverted commas with your own PATH.
+4. Now uncomment out [this line](https://github.com/azeezmazin1/OCRBot/blob/master/OCRBot/ocr.py#L8). Fill the inverted commas with your own PATH.
    
 5. Edit `Config.py` and fill the needed variables
 
@@ -76,9 +76,9 @@ Telegram bot to extract text from image
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@StarkBots](https://t.me/mazi_efx)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@StarkBotsChat](https://t.me/mazi_efx)
 
 ## :)
 
